@@ -1,0 +1,1 @@
+# NM-contact-manager
